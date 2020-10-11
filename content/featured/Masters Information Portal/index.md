@@ -14,4 +14,4 @@ tech:
 showInProjects: true
 ---
 
-A website portal to assist alumnis across the world, guide the current batch of their Alma mater in a more distributed and DRY (Don't Reapeat Yourself) way.
+A website portal to assist alumni across the world, guide the current batch of their Alma mater in a more distributed and DRY (Don't Repeat Yourself) way.

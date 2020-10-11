@@ -6,7 +6,7 @@ module.exports = {
     description:
       'Naman Dangi is a software engineer specializing in building exceptional websites, applications, casual games and everything in between.',
     siteUrl: 'https://namandangi.me/', // No trailing slash allowed!
-    image: '/og.png', // Path to your image you placed in the 'static' folder
+    image: '/og.jpeg', // Path to your image you placed in the 'static' folder
     twitterUsername: '@namandangi_',
   },
   plugins: [

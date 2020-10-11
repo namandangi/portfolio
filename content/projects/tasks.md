@@ -13,4 +13,4 @@ android: ''
 showInProjects: true
 ---
 
-A Command Lne Interface Task Manager written in Go.
+A Command Line Interface Task Manager written in Go.
