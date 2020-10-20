@@ -1,8 +1,8 @@
 ---
 date: '3'
 title: 'Mangas!'
-cover: './c1.jpeg'
-github: 'https://github.com/namandangi/comics'
+cover: './manga.png'
+github: 'https://github.com/namandangi/manga'
 external: ''
 tech:
   - Node.js
