@@ -7,6 +7,7 @@ range: 'August 2019 - October 2019'
 url: 'https://www.mach15groups.com/mach15edgesoln/'
 ---
 
-- Worked closely with user interface developers and management team to build a marketing and an e-commerce website forBandBaazar, an ambitious startup for the budding artists
+- Teamed up with user interface developers to create a marketing and an e-commerce website for BandBaazar, a startup aimed
+  at providing marketing tools & industry opportunities for emerging musicians, artists & bands.
 - Developed and maintained the project's database, handled server-client integration using ES6, Node.js, React.js, PostgreSQL
 - Interfaced with clients and management team on a weekly basis, providing technological expertise
