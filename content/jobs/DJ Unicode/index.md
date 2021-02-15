@@ -3,7 +3,7 @@ date: '2020-07-31'
 title: 'Full Stack Developer'
 company: 'DJ Unicode'
 location: 'Mumbai, IN'
-range: 'August 2019 - July 2020'
+range: 'January 2020 - July 2020'
 url: 'https://djunicode.in/'
 ---
 
