@@ -5,7 +5,7 @@ github: 'https://github.com/namandangi/DFG'
 external: ''
 tech:
   - Node.js
-  - Embeded JavaScript
+  - EJS 
   - MongoDb
 company: ''
 ios: ''

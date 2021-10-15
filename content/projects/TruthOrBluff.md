@@ -10,7 +10,7 @@ tech:
 company: ''
 ios: ''
 android: ''
-showInProjects: true
+showInProjects: false
 ---
 
 A supervised Machine Learning project based on a problem statement about deciphering the truth about the blatant statements made by employees.

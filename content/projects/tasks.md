@@ -1,5 +1,5 @@
 ---
-date: '2020-09-27'
+date: '2020-07-27'
 title: 'task-cli'
 github: 'https://github.com/namandangi/task'
 external: ''
