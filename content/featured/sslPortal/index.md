@@ -1,7 +1,7 @@
 ---
 date: '4'
 title: 'Medical Imaging Portal'
-cover: './ssl.jpeg'
+cover: './ssl.jpg'
 github: 'https://github.com/softsensor-ai/sslPortal/'
 external: 'https://path.prr.ai/slide/5'
 tech:
