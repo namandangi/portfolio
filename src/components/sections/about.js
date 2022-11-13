@@ -153,7 +153,7 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I'm Naman Dangi, a software engineer based in Mumbai, IN.</p>
+            <p>Hello! I'm Naman Dangi, a software engineer based in Atlanta, GA.</p>
 
             <p>
               I enjoy creating things that live on the internet, whether that be websites,
@@ -162,11 +162,10 @@ const About = () => {
             </p>
 
             <p>
-              I'm a Junior Year Computer Science student at{' '}
-              <a href="http://www.djsce.ac.in/">Dwarkadas J. Sanghvi College</a>, I have studied and
-              enrolled for various courses and labs like Object-Oriented-Programming, Operating
-              Systems, Data Structures, Analysis of Algorithms, DataBase Management Systems, Theory
-              of Computer Science, Computer Networks.
+            I'm a First Year Master's student pursuing Computer Science at{' '}
+              <a href="https://www.gatech.edu/">Georgia Institute of Technoology</a>, Currently,
+              I'm enrolled in the following courses and labs like Advanced Operating Systems,
+              Introduction to Graduate Algorithms, DataBase System Implementation
             </p>
 
             <p>Here are a few technologies I've been working with recently:</p>

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://namandangi.me/sitemap.xml
-Host: https://namandangi.me
+Sitemap: https://namandangi.tech/sitemap.xml
+Host: https://namandangi.tech
