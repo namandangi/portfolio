@@ -1,13 +1,12 @@
 ---
 date: '2019-10-15'
-title: 'FullStack Intern'
-company: 'Mach15 Edge Technologies'
+title: 'Software Engineering Intern'
+company: 'Mach15 Edge'
 location: 'Mumbai, IN'
 range: 'August 2019 - October 2019'
 url: 'https://www.mach15groups.com/mach15edgesoln/'
 ---
 
-- Teamed up with user interface developers to create a marketing and an e-commerce website for BandBaazar, a startup aimed
-  at providing marketing tools & industry opportunities for emerging musicians, artists & bands.
-- Developed and maintained the project's database, handled server-client integration using ES6, Node.js, React.js, PostgreSQL
-- Interfaced with clients and management team on a weekly basis, providing technological expertise
+- Worked on an e-commerce and marketing website for a startup promoting emerging musicians, artists & bands.
+- Wrote unit tests covering 90% of the backend controllers using Mocha, Chai & Nyc. Setup CI/CD pipelines using GitHub Actions.
+- Constructed the database schemas, handled server-client integration, & built REST APIs using ES6, Node.js, React.js, & PostgreSQL.

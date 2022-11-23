@@ -2,17 +2,16 @@
 date: '4'
 title: 'Medical Imaging Portal'
 cover: './ssl.jpg'
-github: 'https://github.com/softsensor-ai/sslPortal/'
+# github: 'https://github.com/softsensor-ai/sslPortal/'
 external: 'https://path.prr.ai/slide/5'
 tech:
   - React.js
+  - Node.js
   - Openseadragon
   - Fabrics.js
-  - Libvips
   - Whole-Slide Images
   - Deep Zoom Images
-  - Electron.js
-
+  - Libvips
 
 company: 'Softsensor.ai Labs'
 ios: ''

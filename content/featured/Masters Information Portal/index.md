@@ -9,8 +9,8 @@ tech:
   - React.js
   - MongoDB
   - Material-UI
-  - Chai
-  - Mocha
+  - Chai.js
+  - Mocha.js
 showInProjects: true
 ---
 

@@ -133,17 +133,22 @@ const About = () => {
   }, []);
 
   const skills = [
-    'JavaScript (ES6+)',
-    'HTML & CSS',
-    'Node.js',
-    'Express.js',
-    'React',
-    'MonogoDB',
-    'PostgreSQL',
-    'Redis',
-    'Mongoose',
-    'Sequelize',
-    'Git',
+    'Java, C++, C & Python',
+    'JavaScript, TypeScript',
+    'HTML, CSS & SCSS',
+    'jQuery & Cheerio.js',
+    'Node.js & Express.js',
+    'React.js & Next.js',
+    'MonogoDB & Mongoose',
+    'PostgreSQL & MySQL',
+    'Sequelize & Knex',
+    'Valgrind & GDB',
+    'Docker & CI/CD',
+    'Git & Bash scripting',
+    'Mocha.js, Chai.js & Jest',
+    'Tensorflow, Keras, PyTorch & Flask',
+    'Unity3D & Blender3D',
+    'Clip Studio Paint'
   ];
 
   return (

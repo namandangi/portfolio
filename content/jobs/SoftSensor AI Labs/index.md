@@ -1,14 +1,13 @@
 ---
 date: '2020-08-23'
-title: 'Research Intern'
-company: 'SoftSensor AI Labs'
+title: 'Software Engineer'
+company: 'SoftSensor.ai'
 location: 'Mumbai, IN'
-range: 'August 2020 - Present'
+range: 'August 2020 - March 2022'
 url: 'https://www.softsensor.ai/'
 ---
 
-- Working on problems involving Whole Slide Images (WSIs) for tasks like segmentation and study of metastasis cancerous cells in Histopathology.
-- Working with a variety of different languages, platforms, frameworks such as Python, Numpy, Pandas, Matplotlib, Seaborn, Tensorflow, Keras, Pilow, OpenCV, JupyterBook, GoogleColab
-- Actively studying research papers involving Generative Adverserial Networks, Semantic Segmentation, Image Preprocessing, etc
-- Developing a vendor neutral, AI powered software prototype to facilitate doctors & pathologists in annotating, analyzing &
-  processing medical images for comparative studies & diagnosis.
+- Led a team of 10+ members to develop an infrastructure for supporting the clinical trial of a drug under approval from the FDA.
+- Devised a mechanism for an eﬃcient application of image processing ﬁlters to gigapixel whole-slide-images, reducing the time required for ﬁltering by about 45% using CanvasAPI, Fabric.js, Paper.js, Flask, & OpenCV.
+- Developed a pipeline to support the ingestion & processing of over 30,000 medical images directly over the web browser, where images ranged from a few MBs to several GBs (5GB+) in size using OpenSeaDragon, S3, EC2, Electron.js, & LibVips.
+- Check out my work sample here: https://docs.google.com/document/d/e/2PACX-1vRTqtzIY75ShtTOFXmL6QRKCDuWwOoeCHeIAzTPBKNWhlZRk-k2RmWyf_uDPZvpXmVh6MWYS4Iy0etn/pub

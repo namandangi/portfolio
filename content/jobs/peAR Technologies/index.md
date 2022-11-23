@@ -1,9 +1,9 @@
 ---
 date: '2019-03-30'
-title: 'App Developer Intern'
+title: 'Software Engineer Intern'
 company: 'peAR Technologies'
 location: 'Mumbai, IN'
-range: 'January - March 2019'
+range: 'January 2019 - March 2019'
 url: 'http://www.peartechnologies.biz/'
 ---
 
