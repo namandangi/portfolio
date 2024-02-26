@@ -9,6 +9,7 @@ tech:
   - Keras
   - OpenCV
   - Matplotlib
+  
 company: ''
 ios: ''
 android: ''

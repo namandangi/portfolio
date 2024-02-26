@@ -3,22 +3,17 @@ date: '4'
 title: 'Medical Imaging Portal'
 cover: './ssl.jpg'
 # github: 'https://github.com/softsensor-ai/sslPortal/'
-external: 'https://path.prr.ai/slide/5'
+# external: 'https://path.prr.ai/slide/5'
 tech:
-  - React.js
-  - Node.js
-  - Openseadragon
-  - Fabrics.js
-  - Whole-Slide Images
-  - Deep Zoom Images
-  - Libvips
+  - Microservices, Docker, Airflow, GraphQL, MongoDB
+  - AWS S3, Lambda, EC2, Sagemaker, React.js, Node.js,
 
-company: 'Softsensor.ai Labs'
+
+company: 'Softsensor.ai'
 ios: ''
 android: ''
 showInProjects: true
 ---
 
 
-A vendor neutral, multi-modal, AI powered software to facilitate doctors, pathologists and research scholars in annotating, analyzing and processing medical images for comparative studies and diagnosis.
-
+A visualization platform to support big data analytics, featuring a data processing pipeline for ETL jobs on large scale medical images and an inference pipeline to generate ML predicitions.

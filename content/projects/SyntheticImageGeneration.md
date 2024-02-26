@@ -8,6 +8,7 @@ tech:
   - Tensorflow 2.0
   - Keras
   - Matplotlib
+
 company: ''
 ios: ''
 android: ''

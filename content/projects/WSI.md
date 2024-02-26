@@ -11,6 +11,7 @@ tech:
   - OpenCV
   - OpenSlide
   - Pilow
+
 company: 'Softsensor.ai'
 ios: ''
 android: ''

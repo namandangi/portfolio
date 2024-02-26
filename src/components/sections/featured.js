@@ -87,6 +87,7 @@ const StyledProject = styled.div`
 
   .project-overline {
     margin: 10px 0;
+    width: 85%;
     color: var(--green);
     font-family: var(--font-mono);
     font-size: var(--fz-xs);
@@ -96,6 +97,7 @@ const StyledProject = styled.div`
   .project-title {
     color: var(--lightest-slate);
     font-size: clamp(24px, 5vw, 28px);
+    width: 85%;
 
     @media (min-width: 768px) {
       margin: 0 0 20px;
@@ -284,7 +286,6 @@ const Featured = () => {
           featuredProjects.map(({ node }, i) => {
             const { frontmatter, html } = node;
             const { external, title, tech, github, cover } = frontmatter;
-
             return (
               <StyledProject key={i} ref={el => (revealProjects.current[i] = el)}>
                 <div className="project-content">
