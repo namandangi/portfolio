@@ -133,22 +133,24 @@ const About = () => {
   }, []);
 
   const skills = [
-    'Java, C++, C & Python',
-    'JavaScript, TypeScript',
-    'HTML, CSS & SCSS',
-    'jQuery & Cheerio.js',
-    'Node.js & Express.js',
-    'React.js & Next.js',
-    'MonogoDB & Mongoose',
-    'PostgreSQL & MySQL',
-    'Sequelize & Knex',
-    'Valgrind & GDB',
-    'Docker & CI/CD',
-    'Git & Bash scripting',
-    'Mocha.js, Chai.js & Jest',
-    'Tensorflow, Keras, PyTorch & Flask',
-    'Unity3D & Blender3D',
-    'Clip Studio Paint'
+    'Java, JavaScript',
+    'Python, C/C++',
+    'PostgreSQL, MySQL',
+    'MongoDB, Redis',
+    'AWS, Azure',
+    'Node.js, Spring Boot',
+    'FastAPI, Flask',
+    'React.js, Angular.js',
+    'HTML, CSS, SASS',
+    'REST, GraphQL, gRPC',
+    'Valgrind, GDB',
+    'RabbitMQ, Celery',
+    'Elastic Search, Logstash',
+    'Docker, Kubernetes, Helm',
+    'Git, Bash, CI/CD',
+    'Jest, JUnit',    
+    'Tensorflow, PyTorch',
+    'Argo, Rancher, Jenkins',
   ];
 
   return (
@@ -160,19 +162,24 @@ const About = () => {
           <div>
             <p>Hello! I'm Naman Dangi, a software engineer based in Atlanta, GA.</p>
 
-            <p>
+            {/* <p>
               I enjoy creating things that live on the internet, whether that be websites,
               applications, or anything in between. My goal is to always build products that provide
               pixel-perfect, performant experiences.
+            </p> */}
+
+            <p>
+              I have extensive experience in developing and deploying cloud-based full-stack applications. At Softsensor.ai, I worked alongside doctors, pathologists, and medical experts from MD Anderson Cancer Research Institute and All India Institute of Medical Science to lead a team of 10+ members for the development and deployment of a full-stack application for the analysis, visualization, and management of medical imaging data and patient records. 
+            </p>
+            
+            <p>
+              Currently, I am working on leveraging vector databases like PostGIS and PGVector to support spatial queries for advanced analytics in medical images with Dr. David Gutman. I am also a Graduate Teaching Assistant for the course CS 8803: Mobile Application and Services at Georgia Tech, where I help students learn about the entire product development lifecycle and business aspects of building and deploying software solutions.
             </p>
 
             <p>
-            I'm a First Year Master's student pursuing Computer Science at{' '}
-              <a href="https://www.gatech.edu/">Georgia Institute of Technoology</a>, Currently,
-              I'm enrolled in the following courses and labs like Advanced Operating Systems,
-              Introduction to Graduate Algorithms, DataBase System Implementation
+              I'm about to graduate with a Master's degree in Computer Science from Georgia Institute of Technology and am looking for full-time opportunities starting May 2024 in Software Engineering or Cloud/Platform Engineering roles (open to relocation).
             </p>
-
+                        
             <p>Here are a few technologies I've been working with recently:</p>
           </div>
 
