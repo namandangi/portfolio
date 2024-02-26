@@ -18,10 +18,11 @@ module.exports = {
       name: 'Instagram',
       url: 'https://www.instagram.com/danginaman',
     },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/namandangi_',
-    },
+    // {
+    //   name: 'Twitter',
+    //   url: 'https://twitter.com/namandangi_',
+    //   // url: '',
+    // },
   ],
 
   navLinks: [

@@ -7,7 +7,8 @@ module.exports = {
       'Naman Dangi is a software engineer specializing in building exceptional websites, applications, casual games and everything in between.',
     siteUrl: 'https://namandangi.tech/', // No trailing slash allowed!
     image: '/og.jpeg', // Path to your image you placed in the 'static' folder
-    twitterUsername: '@namandangi_',
+    // twitterUsername: '@namandangi_',
+    twitterUsername: '',
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
